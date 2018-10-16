@@ -17,7 +17,9 @@ class FactbookSpider(scrapy.Spider):
         links = response.xpath('//body//div[@id="profileguide"]/div[@class="answer"]//a')
         results = {}
         for index, link in enumerate(links):
-            results[link.xpath('text()').extract_first()] = response.urljoin(link.xpath('@href').extract_first())
+            text = link.xpath('text()').extract_first()
+            link = response.urljoin(link.xpath('@href').extract_first())
+            results[text] = link
 
         yield scrapy.Request(
             results["Population growth rate:"],
@@ -31,9 +33,12 @@ class FactbookSpider(scrapy.Spider):
         results = {}
         for index, row in enumerate(rows):
             if not row.xpath('@class').extract_first() == "rankHeading":
-                results[row.xpath('@id').extract_first()] = {
-                    "name": row.xpath('td[@class="region"]//text()').extract_first(),
-                    "population_growth_rate": row.xpath('td[3]/text()').extract_first()
+                id = row.xpath('@id').extract_first()
+                name = row.xpath('td[@class="region"]//text()').extract_first()
+                population_growth = row.xpath('td[3]/text()').extract_first()
+                results[id] = {
+                    "name": name,
+                    "population_growth_rate": population_growth
                 }
         meta["results"] = results
         yield scrapy.Request(
@@ -50,12 +55,10 @@ class FactbookSpider(scrapy.Spider):
         for index, row in enumerate(rows):
             if not row.xpath('@class').extract_first() == 'rankHeading':
                 id = row.xpath('@id').extract_first()
+                gdp_growth = row.xpath('td[3]/text()').extract_first()
                 try:
-                    results[id]["gdp_growth_rate"] = row.xpath('td[3]/text()').extract_first()
+                    results[id]["gdp_growth_rate"] = gdp_growth
                 except KeyError:
-                    results[id] = {
-                        "name": row.xpath('td[@class="region"]//text()').extract_first(),
-                        "gdp_growth_rate": row.xpath('td[3]/text()').extract_first()
-                    }
+                    pass
 
         return results
