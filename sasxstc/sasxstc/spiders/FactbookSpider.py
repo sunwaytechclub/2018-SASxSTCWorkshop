@@ -17,12 +17,12 @@ class FactbookSpider(scrapy.Spider):
         links = response.xpath('//body//div[@id="profileguide"]/div[@class="answer"]//a')
         results = {}
         for index, link in enumerate(links):
-            results[link.xpath('text()').extract_first()] = link.xpath('@href').extract_first()
+            results[link.xpath('text()').extract_first()] = response.urljoin(link.xpath('@href').extract_first())
 
         yield scrapy.Request(
-            response.urljoin(results["Population growth rate:"]),
+            results["Population growth rate:"],
             callback=self.parse_population,
-            meta={"initial_response": response, "links": results}
+            meta={"links": results}
         )
 
     def parse_population(self, response):
@@ -37,7 +37,7 @@ class FactbookSpider(scrapy.Spider):
                 }
         meta["results"] = results
         yield scrapy.Request(
-            meta["initial_response"].urljoin(meta["links"]["GDP - real growth rate:"]),
+            meta["links"]["GDP - real growth rate:"],
             callback=self.parse_gdp,
             meta=meta
         )
