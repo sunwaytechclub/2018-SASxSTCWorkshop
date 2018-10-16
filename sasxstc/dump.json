@@ -1,0 +1,1171 @@
+{
+  "od": {
+    "name": "South Sudan",
+    "population_growth_rate": "3.83",
+    "gdp_growth_rate": "-11.10"
+  },
+  "ao": {
+    "name": "Angola",
+    "population_growth_rate": "3.52",
+    "gdp_growth_rate": "0.70"
+  },
+  "mi": {
+    "name": "Malawi",
+    "population_growth_rate": "3.31",
+    "gdp_growth_rate": "4.00"
+  },
+  "by": {
+    "name": "Burundi",
+    "population_growth_rate": "3.25",
+    "gdp_growth_rate": "0.00"
+  },
+  "ug": {
+    "name": "Uganda",
+    "population_growth_rate": "3.20",
+    "gdp_growth_rate": "4.50"
+  },
+  "ng": {
+    "name": "Niger",
+    "population_growth_rate": "3.19",
+    "gdp_growth_rate": "5.20"
+  },
+  "ml": {
+    "name": "Mali",
+    "population_growth_rate": "3.02",
+    "gdp_growth_rate": "5.30"
+  },
+  "uv": {
+    "name": "Burkina Faso",
+    "population_growth_rate": "3.00",
+    "gdp_growth_rate": "6.40"
+  },
+  "za": {
+    "name": "Zambia",
+    "population_growth_rate": "2.93",
+    "gdp_growth_rate": "3.60"
+  },
+  "et": {
+    "name": "Ethiopia",
+    "population_growth_rate": "2.85",
+    "gdp_growth_rate": "10.90"
+  },
+  "tz": {
+    "name": "Tanzania",
+    "population_growth_rate": "2.75",
+    "gdp_growth_rate": "6.00"
+  },
+  "bn": {
+    "name": "Benin",
+    "population_growth_rate": "2.71",
+    "gdp_growth_rate": "5.60"
+  },
+  "wi": {
+    "name": "Western Sahara",
+    "population_growth_rate": "2.70"
+  },
+  "to": {
+    "name": "Togo",
+    "population_growth_rate": "2.64",
+    "gdp_growth_rate": "4.40"
+  },
+  "gv": {
+    "name": "Guinea",
+    "population_growth_rate": "2.61",
+    "gdp_growth_rate": "6.70"
+  },
+  "cm": {
+    "name": "Cameroon",
+    "population_growth_rate": "2.56",
+    "gdp_growth_rate": "3.20"
+  },
+  "iz": {
+    "name": "Iraq",
+    "population_growth_rate": "2.55",
+    "gdp_growth_rate": "-0.80"
+  },
+  "ma": {
+    "name": "Madagascar",
+    "population_growth_rate": "2.50",
+    "gdp_growth_rate": "4.10"
+  },
+  "li": {
+    "name": "Liberia",
+    "population_growth_rate": "2.50",
+    "gdp_growth_rate": "2.50"
+  },
+  "mz": {
+    "name": "Mozambique",
+    "population_growth_rate": "2.46",
+    "gdp_growth_rate": "3.00"
+  },
+  "rw": {
+    "name": "Rwanda",
+    "population_growth_rate": "2.45",
+    "gdp_growth_rate": "6.10"
+  },
+  "eg": {
+    "name": "Egypt",
+    "population_growth_rate": "2.45",
+    "gdp_growth_rate": "4.20"
+  },
+  "ek": {
+    "name": "Equatorial Guinea",
+    "population_growth_rate": "2.44",
+    "gdp_growth_rate": "-4.40"
+  },
+  "ni": {
+    "name": "Nigeria",
+    "population_growth_rate": "2.43",
+    "gdp_growth_rate": "0.80"
+  },
+  "sg": {
+    "name": "Senegal",
+    "population_growth_rate": "2.39",
+    "gdp_growth_rate": "7.20"
+  },
+  "sl": {
+    "name": "Sierra Leone",
+    "population_growth_rate": "2.38",
+    "gdp_growth_rate": "3.50"
+  },
+  "cg": {
+    "name": "Congo, Democratic Republic of the",
+    "population_growth_rate": "2.37",
+    "gdp_growth_rate": "3.40"
+  },
+  "ae": {
+    "name": "United Arab Emirates",
+    "population_growth_rate": "2.37",
+    "gdp_growth_rate": "0.50"
+  },
+  "af": {
+    "name": "Afghanistan",
+    "population_growth_rate": "2.36",
+    "gdp_growth_rate": "2.50"
+  },
+  "tt": {
+    "name": "Timor-Leste",
+    "population_growth_rate": "2.36",
+    "gdp_growth_rate": "-0.50"
+  },
+  "gz": {
+    "name": "Gaza Strip",
+    "population_growth_rate": "2.33",
+    "gdp_growth_rate": "-15.20"
+  },
+  "ym": {
+    "name": "Yemen",
+    "population_growth_rate": "2.28",
+    "gdp_growth_rate": "-13.80"
+  },
+  "qa": {
+    "name": "Qatar",
+    "population_growth_rate": "2.27",
+    "gdp_growth_rate": "2.10"
+  },
+  "ba": {
+    "name": "Bahrain",
+    "population_growth_rate": "2.26",
+    "gdp_growth_rate": "3.20"
+  },
+  "vi": {
+    "name": "British Virgin Islands",
+    "population_growth_rate": "2.25",
+    "gdp_growth_rate": "2.00"
+  },
+  "gh": {
+    "name": "Ghana",
+    "population_growth_rate": "2.17",
+    "gdp_growth_rate": "8.40"
+  },
+  "mr": {
+    "name": "Mauritania",
+    "population_growth_rate": "2.17",
+    "gdp_growth_rate": "3.20"
+  },
+  "tk": {
+    "name": "Turks and Caicos Islands",
+    "population_growth_rate": "2.16",
+    "gdp_growth_rate": "11.20"
+  },
+  "dj": {
+    "name": "Djibouti",
+    "population_growth_rate": "2.16",
+    "gdp_growth_rate": "6.70"
+  },
+  "ct": {
+    "name": "Central African Republic",
+    "population_growth_rate": "2.12",
+    "gdp_growth_rate": "4.00"
+  },
+  "cf": {
+    "name": "Congo, Republic of the",
+    "population_growth_rate": "2.11",
+    "gdp_growth_rate": "-4.60"
+  },
+  "ga": {
+    "name": "Gambia, The",
+    "population_growth_rate": "2.05",
+    "gdp_growth_rate": "3.50"
+  },
+  "jo": {
+    "name": "Jordan",
+    "population_growth_rate": "2.05",
+    "gdp_growth_rate": "2.30"
+  },
+  "mu": {
+    "name": "Oman",
+    "population_growth_rate": "2.03",
+    "gdp_growth_rate": "-0.30"
+  },
+  "cj": {
+    "name": "Cayman Islands",
+    "population_growth_rate": "2.01",
+    "gdp_growth_rate": "1.70"
+  },
+  "so": {
+    "name": "Somalia",
+    "population_growth_rate": "2.00",
+    "gdp_growth_rate": "1.80"
+  },
+  "lu": {
+    "name": "Luxembourg",
+    "population_growth_rate": "1.98",
+    "gdp_growth_rate": "3.50"
+  },
+  "av": {
+    "name": "Anguilla",
+    "population_growth_rate": "1.97",
+    "gdp_growth_rate": "-8.50"
+  },
+  "wa": {
+    "name": "Namibia",
+    "population_growth_rate": "1.95",
+    "gdp_growth_rate": "-1.20"
+  },
+  "bp": {
+    "name": "Solomon Islands",
+    "population_growth_rate": "1.94",
+    "gdp_growth_rate": "3.20"
+  },
+  "gb": {
+    "name": "Gabon",
+    "population_growth_rate": "1.92",
+    "gdp_growth_rate": "0.80"
+  },
+  "cd": {
+    "name": "Chad",
+    "population_growth_rate": "1.86",
+    "gdp_growth_rate": "-3.10"
+  },
+  "pu": {
+    "name": "Guinea-Bissau",
+    "population_growth_rate": "1.86",
+    "gdp_growth_rate": "5.50"
+  },
+  "nh": {
+    "name": "Vanuatu",
+    "population_growth_rate": "1.85",
+    "gdp_growth_rate": "4.20"
+  },
+  "iv": {
+    "name": "Cote d'Ivoire",
+    "population_growth_rate": "1.84",
+    "gdp_growth_rate": "7.80"
+  },
+  "we": {
+    "name": "West Bank",
+    "population_growth_rate": "1.84",
+    "gdp_growth_rate": "5.30"
+  },
+  "sn": {
+    "name": "Singapore",
+    "population_growth_rate": "1.82",
+    "gdp_growth_rate": "3.60"
+  },
+  "bh": {
+    "name": "Belize",
+    "population_growth_rate": "1.80",
+    "gdp_growth_rate": "0.80"
+  },
+  "gt": {
+    "name": "Guatemala",
+    "population_growth_rate": "1.75",
+    "gdp_growth_rate": "2.80"
+  },
+  "tp": {
+    "name": "Sao Tome and Principe",
+    "population_growth_rate": "1.72",
+    "gdp_growth_rate": "4.00"
+  },
+  "pp": {
+    "name": "Papua New Guinea",
+    "population_growth_rate": "1.71",
+    "gdp_growth_rate": "2.50"
+  },
+  "ag": {
+    "name": "Algeria",
+    "population_growth_rate": "1.70",
+    "gdp_growth_rate": "2.00"
+  },
+  "ke": {
+    "name": "Kenya",
+    "population_growth_rate": "1.69",
+    "gdp_growth_rate": "4.80"
+  },
+  "cn": {
+    "name": "Comoros",
+    "population_growth_rate": "1.64",
+    "gdp_growth_rate": "2.50"
+  },
+  "su": {
+    "name": "Sudan",
+    "population_growth_rate": "1.64",
+    "gdp_growth_rate": "3.20"
+  },
+  "ti": {
+    "name": "Tajikistan",
+    "population_growth_rate": "1.62",
+    "gdp_growth_rate": "7.10"
+  },
+  "ho": {
+    "name": "Honduras",
+    "population_growth_rate": "1.60",
+    "gdp_growth_rate": "4.80"
+  },
+  "ly": {
+    "name": "Libya",
+    "population_growth_rate": "1.58",
+    "gdp_growth_rate": "70.80"
+  },
+  "bx": {
+    "name": "Brunei",
+    "population_growth_rate": "1.57",
+    "gdp_growth_rate": "0.50"
+  },
+  "rp": {
+    "name": "Philippines",
+    "population_growth_rate": "1.57",
+    "gdp_growth_rate": "6.70"
+  },
+  "zi": {
+    "name": "Zimbabwe",
+    "population_growth_rate": "1.56",
+    "gdp_growth_rate": "3.00"
+  },
+  "bc": {
+    "name": "Botswana",
+    "population_growth_rate": "1.55",
+    "gdp_growth_rate": "2.20"
+  },
+  "rm": {
+    "name": "Marshall Islands",
+    "population_growth_rate": "1.55",
+    "gdp_growth_rate": "1.90"
+  },
+  "cb": {
+    "name": "Cambodia",
+    "population_growth_rate": "1.52",
+    "gdp_growth_rate": "6.90"
+  },
+  "bl": {
+    "name": "Bolivia",
+    "population_growth_rate": "1.51",
+    "gdp_growth_rate": "4.20"
+  },
+  "is": {
+    "name": "Israel",
+    "population_growth_rate": "1.51",
+    "gdp_growth_rate": "3.30"
+  },
+  "la": {
+    "name": "Laos",
+    "population_growth_rate": "1.51",
+    "gdp_growth_rate": "6.80"
+  },
+  "ku": {
+    "name": "Kuwait",
+    "population_growth_rate": "1.46",
+    "gdp_growth_rate": "-2.50"
+  },
+  "sa": {
+    "name": "Saudi Arabia",
+    "population_growth_rate": "1.45",
+    "gdp_growth_rate": "-0.70"
+  },
+  "pk": {
+    "name": "Pakistan",
+    "population_growth_rate": "1.43",
+    "gdp_growth_rate": "5.30"
+  },
+  "sk": {
+    "name": "Sint Maarten",
+    "population_growth_rate": "1.42"
+  },
+  "my": {
+    "name": "Malaysia",
+    "population_growth_rate": "1.37",
+    "gdp_growth_rate": "5.90"
+  },
+  "ha": {
+    "name": "Haiti",
+    "population_growth_rate": "1.34",
+    "gdp_growth_rate": "1.20"
+  },
+  "cv": {
+    "name": "Cabo Verde",
+    "population_growth_rate": "1.33",
+    "gdp_growth_rate": "4.00"
+  },
+  "nc": {
+    "name": "New Caledonia",
+    "population_growth_rate": "1.33",
+    "gdp_growth_rate": "2.00"
+  },
+  "cy": {
+    "name": "Cyprus",
+    "population_growth_rate": "1.32",
+    "gdp_growth_rate": "3.90"
+  },
+  "ec": {
+    "name": "Ecuador",
+    "population_growth_rate": "1.28",
+    "gdp_growth_rate": "2.70"
+  },
+  "aa": {
+    "name": "Aruba",
+    "population_growth_rate": "1.27",
+    "gdp_growth_rate": "2.40"
+  },
+  "pm": {
+    "name": "Panama",
+    "population_growth_rate": "1.27",
+    "gdp_growth_rate": "5.40"
+  },
+  "ir": {
+    "name": "Iran",
+    "population_growth_rate": "1.24",
+    "gdp_growth_rate": "4.30"
+  },
+  "ve": {
+    "name": "Venezuela",
+    "population_growth_rate": "1.24",
+    "gdp_growth_rate": "-14.00"
+  },
+  "ac": {
+    "name": "Antigua and Barbuda",
+    "population_growth_rate": "1.21",
+    "gdp_growth_rate": "2.80"
+  },
+  "mg": {
+    "name": "Mongolia",
+    "population_growth_rate": "1.18",
+    "gdp_growth_rate": "5.10"
+  },
+  "pa": {
+    "name": "Paraguay",
+    "population_growth_rate": "1.18",
+    "gdp_growth_rate": "4.30"
+  },
+  "dr": {
+    "name": "Dominican Republic",
+    "population_growth_rate": "1.18",
+    "gdp_growth_rate": "4.60"
+  },
+  "in": {
+    "name": "India",
+    "population_growth_rate": "1.17",
+    "gdp_growth_rate": "6.70"
+  },
+  "np": {
+    "name": "Nepal",
+    "population_growth_rate": "1.16",
+    "gdp_growth_rate": "7.50"
+  },
+  "cs": {
+    "name": "Costa Rica",
+    "population_growth_rate": "1.16",
+    "gdp_growth_rate": "3.20"
+  },
+  "ei": {
+    "name": "Ireland",
+    "population_growth_rate": "1.15",
+    "gdp_growth_rate": "7.80"
+  },
+  "kr": {
+    "name": "Kiribati",
+    "population_growth_rate": "1.13",
+    "gdp_growth_rate": "3.10"
+  },
+  "ic": {
+    "name": "Iceland",
+    "population_growth_rate": "1.13",
+    "gdp_growth_rate": "3.60"
+  },
+  "tx": {
+    "name": "Turkmenistan",
+    "population_growth_rate": "1.12",
+    "gdp_growth_rate": "6.50"
+  },
+  "mx": {
+    "name": "Mexico",
+    "population_growth_rate": "1.12",
+    "gdp_growth_rate": "2.00"
+  },
+  "kt": {
+    "name": "Christmas Island",
+    "population_growth_rate": "1.11"
+  },
+  "wz": {
+    "name": "Swaziland",
+    "population_growth_rate": "1.08",
+    "gdp_growth_rate": "0.20"
+  },
+  "bt": {
+    "name": "Bhutan",
+    "population_growth_rate": "1.07",
+    "gdp_growth_rate": "6.00"
+  },
+  "kg": {
+    "name": "Kyrgyzstan",
+    "population_growth_rate": "1.05",
+    "gdp_growth_rate": "4.50"
+  },
+  "bg": {
+    "name": "Bangladesh",
+    "population_growth_rate": "1.04",
+    "gdp_growth_rate": "7.10"
+  },
+  "kz": {
+    "name": "Kazakhstan",
+    "population_growth_rate": "1.04",
+    "gdp_growth_rate": "4.00"
+  },
+  "as": {
+    "name": "Australia",
+    "population_growth_rate": "1.03",
+    "gdp_growth_rate": "2.30"
+  },
+  "ns": {
+    "name": "Suriname",
+    "population_growth_rate": "1.02",
+    "gdp_growth_rate": "0.00"
+  },
+  "ts": {
+    "name": "Tunisia",
+    "population_growth_rate": "1.01",
+    "gdp_growth_rate": "1.90"
+  },
+  "no": {
+    "name": "Norway",
+    "population_growth_rate": "1.01",
+    "gdp_growth_rate": "1.80"
+  },
+  "sf": {
+    "name": "South Africa",
+    "population_growth_rate": "0.99",
+    "gdp_growth_rate": "1.30"
+  },
+  "co": {
+    "name": "Colombia",
+    "population_growth_rate": "0.99",
+    "gdp_growth_rate": "1.80"
+  },
+  "nu": {
+    "name": "Nicaragua",
+    "population_growth_rate": "0.98",
+    "gdp_growth_rate": "4.90"
+  },
+  "mo": {
+    "name": "Morocco",
+    "population_growth_rate": "0.97",
+    "gdp_growth_rate": "4.20"
+  },
+  "pe": {
+    "name": "Peru",
+    "population_growth_rate": "0.95",
+    "gdp_growth_rate": "2.50"
+  },
+  "uz": {
+    "name": "Uzbekistan",
+    "population_growth_rate": "0.93",
+    "gdp_growth_rate": "5.30"
+  },
+  "vm": {
+    "name": "Vietnam",
+    "population_growth_rate": "0.93",
+    "gdp_growth_rate": "6.80"
+  },
+  "ar": {
+    "name": "Argentina",
+    "population_growth_rate": "0.91",
+    "gdp_growth_rate": "2.90"
+  },
+  "bm": {
+    "name": "Burma",
+    "population_growth_rate": "0.91",
+    "gdp_growth_rate": "6.70"
+  },
+  "fp": {
+    "name": "French Polynesia",
+    "population_growth_rate": "0.88",
+    "gdp_growth_rate": "2.00"
+  },
+  "aj": {
+    "name": "Azerbaijan",
+    "population_growth_rate": "0.87",
+    "gdp_growth_rate": "0.10"
+  },
+  "id": {
+    "name": "Indonesia",
+    "population_growth_rate": "0.86",
+    "gdp_growth_rate": "5.10"
+  },
+  "er": {
+    "name": "Eritrea",
+    "population_growth_rate": "0.85",
+    "gdp_growth_rate": "5.00"
+  },
+  "tv": {
+    "name": "Tuvalu",
+    "population_growth_rate": "0.85",
+    "gdp_growth_rate": "3.20"
+  },
+  "sw": {
+    "name": "Sweden",
+    "population_growth_rate": "0.81",
+    "gdp_growth_rate": "2.40"
+  },
+  "us": {
+    "name": "United States",
+    "population_growth_rate": "0.81",
+    "gdp_growth_rate": "2.30"
+  },
+  "bf": {
+    "name": "Bahamas, The",
+    "population_growth_rate": "0.81",
+    "gdp_growth_rate": "1.30"
+  },
+  "ls": {
+    "name": "Liechtenstein",
+    "population_growth_rate": "0.80",
+    "gdp_growth_rate": "1.80"
+  },
+  "nz": {
+    "name": "New Zealand",
+    "population_growth_rate": "0.79",
+    "gdp_growth_rate": "3.00"
+  },
+  "je": {
+    "name": "Jersey",
+    "population_growth_rate": "0.78",
+    "gdp_growth_rate": "1.00"
+  },
+  "sp": {
+    "name": "Spain",
+    "population_growth_rate": "0.78",
+    "gdp_growth_rate": "3.10"
+  },
+  "ci": {
+    "name": "Chile",
+    "population_growth_rate": "0.77",
+    "gdp_growth_rate": "1.50"
+  },
+  "se": {
+    "name": "Seychelles",
+    "population_growth_rate": "0.77",
+    "gdp_growth_rate": "4.20"
+  },
+  "ce": {
+    "name": "Sri Lanka",
+    "population_growth_rate": "0.76",
+    "gdp_growth_rate": "3.10"
+  },
+  "mc": {
+    "name": "Macau",
+    "population_growth_rate": "0.74",
+    "gdp_growth_rate": "9.30"
+  },
+  "sm": {
+    "name": "San Marino",
+    "population_growth_rate": "0.74",
+    "gdp_growth_rate": "1.50"
+  },
+  "br": {
+    "name": "Brazil",
+    "population_growth_rate": "0.73",
+    "gdp_growth_rate": "1.00"
+  },
+  "ca": {
+    "name": "Canada",
+    "population_growth_rate": "0.73",
+    "gdp_growth_rate": "3.00"
+  },
+  "sc": {
+    "name": "Saint Kitts and Nevis",
+    "population_growth_rate": "0.73",
+    "gdp_growth_rate": "2.60"
+  },
+  "be": {
+    "name": "Belgium",
+    "population_growth_rate": "0.70",
+    "gdp_growth_rate": "1.70"
+  },
+  "sz": {
+    "name": "Switzerland",
+    "population_growth_rate": "0.69",
+    "gdp_growth_rate": "1.10"
+  },
+  "jm": {
+    "name": "Jamaica",
+    "population_growth_rate": "0.68",
+    "gdp_growth_rate": "1.00"
+  },
+  "im": {
+    "name": "Isle of Man",
+    "population_growth_rate": "0.68",
+    "gdp_growth_rate": "-8.60"
+  },
+  "ws": {
+    "name": "Samoa",
+    "population_growth_rate": "0.60",
+    "gdp_growth_rate": "2.40"
+  },
+  "fj": {
+    "name": "Fiji",
+    "population_growth_rate": "0.60",
+    "gdp_growth_rate": "3.80"
+  },
+  "mp": {
+    "name": "Mauritius",
+    "population_growth_rate": "0.59",
+    "gdp_growth_rate": "3.90"
+  },
+  "fo": {
+    "name": "Faroe Islands",
+    "population_growth_rate": "0.55",
+    "gdp_growth_rate": "5.90"
+  },
+  "kn": {
+    "name": "Korea, North",
+    "population_growth_rate": "0.53",
+    "gdp_growth_rate": "-1.10"
+  },
+  "nr": {
+    "name": "Nauru",
+    "population_growth_rate": "0.53",
+    "gdp_growth_rate": "4.00"
+  },
+  "tu": {
+    "name": "Turkey",
+    "population_growth_rate": "0.52",
+    "gdp_growth_rate": "7.00"
+  },
+  "uk": {
+    "name": "United Kingdom",
+    "population_growth_rate": "0.52",
+    "gdp_growth_rate": "1.80"
+  },
+  "ks": {
+    "name": "Korea, South",
+    "population_growth_rate": "0.48",
+    "gdp_growth_rate": "3.10"
+  },
+  "au": {
+    "name": "Austria",
+    "population_growth_rate": "0.47",
+    "gdp_growth_rate": "2.90"
+  },
+  "bd": {
+    "name": "Bermuda",
+    "population_growth_rate": "0.45",
+    "gdp_growth_rate": "-0.10"
+  },
+  "mh": {
+    "name": "Montserrat",
+    "population_growth_rate": "0.45",
+    "gdp_growth_rate": "7.40"
+  },
+  "gj": {
+    "name": "Grenada",
+    "population_growth_rate": "0.44",
+    "gdp_growth_rate": "3.50"
+  },
+  "ch": {
+    "name": "China",
+    "population_growth_rate": "0.41",
+    "gdp_growth_rate": "6.90"
+  },
+  "cc": {
+    "name": "Curacao",
+    "population_growth_rate": "0.40"
+  },
+  "ps": {
+    "name": "Palau",
+    "population_growth_rate": "0.39",
+    "gdp_growth_rate": "-1.00"
+  },
+  "fr": {
+    "name": "France",
+    "population_growth_rate": "0.39",
+    "gdp_growth_rate": "1.80"
+  },
+  "nl": {
+    "name": "Netherlands",
+    "population_growth_rate": "0.39",
+    "gdp_growth_rate": "3.10"
+  },
+  "fi": {
+    "name": "Finland",
+    "population_growth_rate": "0.36",
+    "gdp_growth_rate": "3.00"
+  },
+  "hk": {
+    "name": "Hong Kong",
+    "population_growth_rate": "0.32",
+    "gdp_growth_rate": "3.80"
+  },
+  "gy": {
+    "name": "Guyana",
+    "population_growth_rate": "0.32",
+    "gdp_growth_rate": "2.10"
+  },
+  "st": {
+    "name": "Saint Lucia",
+    "population_growth_rate": "0.32",
+    "gdp_growth_rate": "3.00"
+  },
+  "wf": {
+    "name": "Wallis and Futuna",
+    "population_growth_rate": "0.32"
+  },
+  "al": {
+    "name": "Albania",
+    "population_growth_rate": "0.31",
+    "gdp_growth_rate": "3.90"
+  },
+  "th": {
+    "name": "Thailand",
+    "population_growth_rate": "0.30",
+    "gdp_growth_rate": "3.90"
+  },
+  "gk": {
+    "name": "Guernsey",
+    "population_growth_rate": "0.30",
+    "gdp_growth_rate": "0.40"
+  },
+  "lt": {
+    "name": "Lesotho",
+    "population_growth_rate": "0.28",
+    "gdp_growth_rate": "3.10"
+  },
+  "bb": {
+    "name": "Barbados",
+    "population_growth_rate": "0.28",
+    "gdp_growth_rate": "0.90"
+  },
+  "uy": {
+    "name": "Uruguay",
+    "population_growth_rate": "0.27",
+    "gdp_growth_rate": "3.10"
+  },
+  "mt": {
+    "name": "Malta",
+    "population_growth_rate": "0.26",
+    "gdp_growth_rate": "6.60"
+  },
+  "gq": {
+    "name": "Guam",
+    "population_growth_rate": "0.26",
+    "gdp_growth_rate": "0.40"
+  },
+  "es": {
+    "name": "El Salvador",
+    "population_growth_rate": "0.25",
+    "gdp_growth_rate": "2.40"
+  },
+  "mn": {
+    "name": "Monaco",
+    "population_growth_rate": "0.24",
+    "gdp_growth_rate": "5.40"
+  },
+  "ee": {
+    "name": "European Union",
+    "population_growth_rate": "0.23",
+    "gdp_growth_rate": "2.30"
+  },
+  "gi": {
+    "name": "Gibraltar",
+    "population_growth_rate": "0.23"
+  },
+  "da": {
+    "name": "Denmark",
+    "population_growth_rate": "0.22",
+    "gdp_growth_rate": "2.10"
+  },
+  "it": {
+    "name": "Italy",
+    "population_growth_rate": "0.19",
+    "gdp_growth_rate": "1.50"
+  },
+  "do": {
+    "name": "Dominica",
+    "population_growth_rate": "0.18",
+    "gdp_growth_rate": "-4.20"
+  },
+  "sh": {
+    "name": "Saint Helena, Ascension, and Tristan da Cunha",
+    "population_growth_rate": "0.18"
+  },
+  "tw": {
+    "name": "Taiwan",
+    "population_growth_rate": "0.17",
+    "gdp_growth_rate": "2.80"
+  },
+  "mk": {
+    "name": "Macedonia",
+    "population_growth_rate": "0.17",
+    "gdp_growth_rate": "0.00"
+  },
+  "ez": {
+    "name": "Czechia",
+    "population_growth_rate": "0.12",
+    "gdp_growth_rate": "4.30"
+  },
+  "po": {
+    "name": "Portugal",
+    "population_growth_rate": "0.04",
+    "gdp_growth_rate": "2.70"
+  },
+  "an": {
+    "name": "Andorra",
+    "population_growth_rate": "0.03",
+    "gdp_growth_rate": "-1.10"
+  },
+  "fk": {
+    "name": "Falkland Islands (Islas Malvinas)",
+    "population_growth_rate": "0.01",
+    "gdp_growth_rate": "25.50"
+  },
+  "nf": {
+    "name": "Norfolk Island",
+    "population_growth_rate": "0.01"
+  },
+  "vt": {
+    "name": "Holy See (Vatican City)",
+    "population_growth_rate": "0.00"
+  },
+  "pc": {
+    "name": "Pitcairn Islands",
+    "population_growth_rate": "0.00"
+  },
+  "ck": {
+    "name": "Cocos (Keeling) Islands",
+    "population_growth_rate": "0.00",
+    "gdp_growth_rate": "1.00"
+  },
+  "lo": {
+    "name": "Slovakia",
+    "population_growth_rate": "-0.01",
+    "gdp_growth_rate": "3.40"
+  },
+  "tl": {
+    "name": "Tokelau",
+    "population_growth_rate": "-0.01"
+  },
+  "gg": {
+    "name": "Georgia",
+    "population_growth_rate": "-0.02",
+    "gdp_growth_rate": "4.80"
+  },
+  "sv": {
+    "name": "Svalbard",
+    "population_growth_rate": "-0.03"
+  },
+  "gl": {
+    "name": "Greenland",
+    "population_growth_rate": "-0.03",
+    "gdp_growth_rate": "7.70"
+  },
+  "ne": {
+    "name": "Niue",
+    "population_growth_rate": "-0.03",
+    "gdp_growth_rate": "6.20"
+  },
+  "tn": {
+    "name": "Tonga",
+    "population_growth_rate": "-0.05",
+    "gdp_growth_rate": "3.10"
+  },
+  "mv": {
+    "name": "Maldives",
+    "population_growth_rate": "-0.06",
+    "gdp_growth_rate": "4.80"
+  },
+  "gr": {
+    "name": "Greece",
+    "population_growth_rate": "-0.06",
+    "gdp_growth_rate": "1.40"
+  },
+  "rs": {
+    "name": "Russia",
+    "population_growth_rate": "-0.08",
+    "gdp_growth_rate": "1.50"
+  },
+  "pl": {
+    "name": "Poland",
+    "population_growth_rate": "-0.13",
+    "gdp_growth_rate": "4.60"
+  },
+  "bk": {
+    "name": "Bosnia and Herzegovina",
+    "population_growth_rate": "-0.16",
+    "gdp_growth_rate": "2.70"
+  },
+  "gm": {
+    "name": "Germany",
+    "population_growth_rate": "-0.16",
+    "gdp_growth_rate": "2.50"
+  },
+  "td": {
+    "name": "Trinidad and Tobago",
+    "population_growth_rate": "-0.20",
+    "gdp_growth_rate": "-2.60"
+  },
+  "am": {
+    "name": "Armenia",
+    "population_growth_rate": "-0.21",
+    "gdp_growth_rate": "7.50"
+  },
+  "ja": {
+    "name": "Japan",
+    "population_growth_rate": "-0.21",
+    "gdp_growth_rate": "1.70"
+  },
+  "bo": {
+    "name": "Belarus",
+    "population_growth_rate": "-0.22",
+    "gdp_growth_rate": "2.40"
+  },
+  "vc": {
+    "name": "Saint Vincent and the Grenadines",
+    "population_growth_rate": "-0.25",
+    "gdp_growth_rate": "1.00"
+  },
+  "hu": {
+    "name": "Hungary",
+    "population_growth_rate": "-0.25",
+    "gdp_growth_rate": "4.00"
+  },
+  "vq": {
+    "name": "Virgin Islands",
+    "population_growth_rate": "-0.25",
+    "gdp_growth_rate": "0.90"
+  },
+  "mj": {
+    "name": "Montenegro",
+    "population_growth_rate": "-0.28",
+    "gdp_growth_rate": "4.20"
+  },
+  "cu": {
+    "name": "Cuba",
+    "population_growth_rate": "-0.29",
+    "gdp_growth_rate": "1.60"
+  },
+  "si": {
+    "name": "Slovenia",
+    "population_growth_rate": "-0.31",
+    "gdp_growth_rate": "5.00"
+  },
+  "ro": {
+    "name": "Romania",
+    "population_growth_rate": "-0.33",
+    "gdp_growth_rate": "7.00"
+  },
+  "up": {
+    "name": "Ukraine",
+    "population_growth_rate": "-0.41",
+    "gdp_growth_rate": "2.50"
+  },
+  "ri": {
+    "name": "Serbia",
+    "population_growth_rate": "-0.46",
+    "gdp_growth_rate": "1.80"
+  },
+  "hr": {
+    "name": "Croatia",
+    "population_growth_rate": "-0.50",
+    "gdp_growth_rate": "2.80"
+  },
+  "cq": {
+    "name": "Northern Mariana Islands",
+    "population_growth_rate": "-0.51",
+    "gdp_growth_rate": "28.60"
+  },
+  "fm": {
+    "name": "Micronesia, Federated States of",
+    "population_growth_rate": "-0.52",
+    "gdp_growth_rate": "2.00"
+  },
+  "en": {
+    "name": "Estonia",
+    "population_growth_rate": "-0.57",
+    "gdp_growth_rate": "4.90"
+  },
+  "bu": {
+    "name": "Bulgaria",
+    "population_growth_rate": "-0.61",
+    "gdp_growth_rate": "3.60"
+  },
+  "md": {
+    "name": "Moldova",
+    "population_growth_rate": "-1.05",
+    "gdp_growth_rate": "4.00"
+  },
+  "lh": {
+    "name": "Lithuania",
+    "population_growth_rate": "-1.08",
+    "gdp_growth_rate": "3.80"
+  },
+  "lg": {
+    "name": "Latvia",
+    "population_growth_rate": "-1.08",
+    "gdp_growth_rate": "4.50"
+  },
+  "sb": {
+    "name": "Saint Pierre and Miquelon",
+    "population_growth_rate": "-1.08"
+  },
+  "le": {
+    "name": "Lebanon",
+    "population_growth_rate": "-1.10",
+    "gdp_growth_rate": "1.20"
+  },
+  "aq": {
+    "name": "American Samoa",
+    "population_growth_rate": "-1.30",
+    "gdp_growth_rate": "-2.50"
+  },
+  "rq": {
+    "name": "Puerto Rico",
+    "population_growth_rate": "-1.74",
+    "gdp_growth_rate": "-7.70"
+  },
+  "cw": {
+    "name": "Cook Islands",
+    "population_growth_rate": "-2.79",
+    "gdp_growth_rate": "0.10"
+  },
+  "kv": {
+    "name": "Kosovo",
+    "gdp_growth_rate": "4.10"
+  },
+  "uc": {
+    "name": "Curacao",
+    "gdp_growth_rate": "3.60"
+  },
+  "nn": {
+    "name": "Sint Maarten",
+    "gdp_growth_rate": "3.60"
+  }
+}
