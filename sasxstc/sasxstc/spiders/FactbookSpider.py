@@ -1,5 +1,6 @@
 from pprint import pprint
 import scrapy
+from sasxstc.items import SasxstcItem
 
 
 class FactbookSpider(scrapy.Spider):
@@ -61,4 +62,7 @@ class FactbookSpider(scrapy.Spider):
                 except KeyError:
                     pass
 
-        return results
+        # return results
+        item = SasxstcItem()
+        item["results"] = results
+        return item

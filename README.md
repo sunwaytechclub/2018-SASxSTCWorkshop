@@ -295,3 +295,35 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
 
 1. Now you have the data of factbook with you! 
 
+1. However, before we move forward, let's make use of the pipelines
+
+    Add a field to `projectdir/sasxstc/sasxstc/items.py`
+    ```python
+    class SasxstcItem(scrapy.Item):
+        # define the fields for your item here like:
+        results = scrapy.Field()
+    ```
+
+    Uncomment the following line in `projectdir/sasxstc/sasxstc/settings.py`
+    ```python
+    # Configure item pipelines
+    # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
+    # ITEM_PIPELINES = {
+    #    'sasxstc.pipelines.SasxstcPipeline': 300,
+    #}
+    ```
+
+    Import the item in `projectdir/sasxstc/sasxstc/spiders/FactbookSpider.py`
+    ```python
+    from sasxstc.items import SasxstcItem
+    ```
+
+    Change the last line of `projectdir/sasxstc/sasxstc/spiders/FactbookSpider.py`
+    ```python
+    # return results
+    item = SasxstcItem()
+    item["results"] = results
+    return item
+    ```
+
+1. You are good to go now!
