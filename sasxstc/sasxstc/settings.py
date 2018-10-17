@@ -63,10 +63,10 @@ NEWSPIDER_MODULE = 'sasxstc.spiders'
 #}
 
 # Configure item pipelines
-# See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-# ITEM_PIPELINES = {
-#    'sasxstc.pipelines.SasxstcPipeline': 300,
-#}
+# See https: // doc.scrapy.org / en / latest / topics / item - pipeline.html
+ITEM_PIPELINES = {
+    'sasxstc.pipelines.SasxstcPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

@@ -6,6 +6,7 @@
 |:----:|:-------------------------:|
 | 0930 |    Registration start     |
 | 1020 |          Opening          |
+| 1026 |       Ice Breaking        |
 | 1030 | Analytic Talk by Fusionex |
 | 1200 |           Q & A           |
 | 1230 |           Lunch           |
@@ -17,7 +18,8 @@
 
 | Time |          Agenda           |
 |:----:|:-------------------------:|
-| 1330 |    Install requirement    |
+| 1330 |       Introduce TAs       |
+| 1333 |    Install requirement    |
 | 1340 |    Basic Web Scrapping    |
 | 1415 | Scrape CIA world factbook |
 | 1445 |    Panda + Matplotlib     |
@@ -306,8 +308,6 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
 
     Uncomment the following line in `projectdir/sasxstc/sasxstc/settings.py`
     ```python
-    # Configure item pipelines
-    # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
     # ITEM_PIPELINES = {
     #    'sasxstc.pipelines.SasxstcPipeline': 300,
     #}
