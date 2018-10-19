@@ -6,7 +6,6 @@
 |:----:|:-------------------------:|
 | 0930 |    Registration start     |
 | 1020 |          Opening          |
-| 1026 |       Ice Breaking        |
 | 1030 | Analytic Talk by Fusionex |
 | 1200 |           Q & A           |
 | 1230 |           Lunch           |
@@ -18,16 +17,17 @@
 
 | Time |          Agenda           |
 |:----:|:-------------------------:|
-| 1330 |       Introduce TAs       |
-| 1333 |    Install requirement    |
-| 1340 |    Basic Web Scrapping    |
+| 1330 |       Ice Breaking        |
+| 1333 |       Introduce TAs       |
+| 1334 |    Install requirement    |
+| 1350 |    Basic Web Scrapping    |
 | 1415 | Scrape CIA world factbook |
 | 1445 |    Panda + Matplotlib     |
 | 1620 |            End            |
 
 ## Slides
 
-[Google Slides]()
+[Google Slides](https://docs.google.com/presentation/d/1zm3oYZ_UbkVHQ2HZ5kklCRn90eLR_NYNHRstOSOKncA/edit?usp=sharing)
 
 ## Workshop
 
@@ -41,6 +41,68 @@
 
     ```bash
     $ python -m pip install -r ./requirements.txt
+    ```
+
+1. Error (Windows)
+    
+    **Lack of TK**
+
+    ```bash
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+      File "/usr/local/lib/python3.6/site-packages/matplotlib/pyplot.py", line 115, in <module>
+        _backend_mod, new_figure_manager, draw_if_interactive, _show = pylab_setup()
+      File "/usr/local/lib/python3.6/site-packages/matplotlib/backends/__init__.py", line 32, in pylab_setup
+        globals(),locals(),[backend_name],0)
+      File "/usr/local/lib/python3.6/site-packages/matplotlib/backends/backend_tkagg.py", line 6, in <module>
+        from six.moves import tkinter as Tk
+      File "/usr/local/lib/python3.6/site-packages/six.py", line 92, in __get__
+        result = self._resolve()
+      File "/usr/local/lib/python3.6/site-packages/six.py", line 115, in _resolve
+        return _import_module(self.mod)
+      File "/usr/local/lib/python3.6/site-packages/six.py", line 82, in _import_module
+        __import__(name)
+      File "/usr/local/lib/python3.6/tkinter/__init__.py", line 36, in <module>
+        import _tkinter # If this fails your Python may not be configured for Tk
+    ModuleNotFoundError: No module named '_tkinter'
+    ```
+
+    Solution: Reinstall python and check TK modules
+
+    **Microsoft Visual C++ 14.0**
+
+    ```bash
+    running build_ext
+    building 'twisted.test.raiser' extension
+    error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": http://landinghub.visualstudio.com/visual-cpp-build-tools
+    ```
+
+    Solution: 
+
+    1. Manually download twisted from [here](https://www.lfd.uci.edu/%7Egohlke/pythonlibs/)
+
+    1. Run
+
+    ```bash
+    $ pip install Twisted‑18.9.0‑cp37‑cp37m‑win32.whl
+    ```
+
+    **Lack of pywin32**
+
+    ```bash
+    ModuleNotFoundError: No module named 'pywin32'
+    ```
+
+    Solution:
+
+    ```bash
+    $ pip install pywin32
+    ```
+
+    OR
+
+    ```bash
+    $ pip install pypiwin32
     ```
 
 ### Scrapping Workshop
@@ -327,3 +389,100 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
     ```
 
 1. You are good to go now!
+
+### Analytics
+
+1. Go to `projectdir/sasxstc/sasxstc/pipelines.py`
+
+1. Add imports
+
+    ```python
+    import pandas
+    import seaborn
+    from matplotlib import pyplot
+    from pprint import pprint
+    from scipy import stats
+    ```
+
+1. Seperate results into different list
+
+    ```python
+    results = item["results"]
+        country_name = []
+        population_growth = []
+        infant_mortality = []
+        gdp_growth = []
+
+        for country_code in list(results.keys()):
+
+            country_name.append(results[country_code]["name"])
+
+            try:
+                population_growth.append(float(results[country_code]["population_growth_rate"]))
+            except KeyError:
+                population_growth.append(None)
+
+            try:
+                infant_mortality.append(float(results[country_code]["infant_mortality_rate"]))
+            except KeyError:
+                infant_mortality.append(None)
+
+            try:
+                gdp_growth.append(float(results[country_code]["gdp_growth_rate"]))
+            except KeyError:
+                gdp_growth.append(None)
+    ```
+
+1. Put data into Panda dataframe
+
+    ```python
+    data = pandas.DataFrame(
+            {
+                "gdp_growth": gdp_growth,
+                "infant_mortality": infant_mortality,
+                "population_growth": population_growth
+            },
+            index=country_name
+        )
+
+    pprint(data)
+    ```
+
+1. Run it and see how the data looks like
+
+1. Drop the row with empty field
+
+    ```python
+    data = data.dropna(how='any')
+    pprint(data)
+    ```
+
+1. Plot the graph
+
+    ```python
+    seaborn.jointplot(x="infant_mortality", y="population_growth", data=data, kind="reg")
+
+    pyplot.show()
+    ```
+
+1. Run it!
+
+1. Now, add R and P value?
+
+    ```python
+    seaborn.jointplot(x="infant_mortality", y="population_growth", data=data,
+                      kind="reg", stat_func=stats.pearsonr)
+    ```
+
+1. Add the equation of regression line
+
+    ```python
+    slope, intercept, r_value, p_value, std_err = stats.linregress(data["infant_mortality"].tolist(), data["population_growth"].tolist())
+
+    seaborn.jointplot(x="infant_mortality", y="population_growth", data=data,
+                      kind="reg", stat_func=stats.pearsonr)
+    pyplot.annotate("y={0:.1f}x+{1:.1f}".format(slope, intercept), xy=(0.05, 0.95), xycoords='axes fraction')
+    pyplot.show()
+    ```
+
+1. And, you are done!

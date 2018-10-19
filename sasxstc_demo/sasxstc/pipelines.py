@@ -54,13 +54,5 @@ class SasxstcPipeline(object):
 
         seaborn.jointplot(x="infant_mortality", y="population_growth", data=data,
                           kind="reg", stat_func=stats.pearsonr)
-        # pyplot.legend(
-        #     [
-        #         "y={0:.1f}x+{1:.1f}".format(slope, intercept),
-        #         "Country",
-        #         "Confidence Interval"
-        #     ], ncol=2, loc='upper left')
         pyplot.annotate("y={0:.1f}x+{1:.1f}".format(slope, intercept), xy=(0.05, 0.95), xycoords='axes fraction')
         pyplot.show()
-
-        # return item
