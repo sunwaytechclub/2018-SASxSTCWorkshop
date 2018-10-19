@@ -41,6 +41,31 @@ class FactbookSpider(scrapy.Spider):
                     "name": name,
                     "population_growth_rate": population_growth
                 }
+
+        meta["results"] = results
+        yield scrapy.Request(
+            meta["links"]["Infant mortality rate:"],
+            callback=self.parse_infant_mortality,
+            meta=meta
+        )
+
+    def parse_infant_mortality(self, response):
+        meta = response.meta
+        results = meta["results"]
+
+        rows = response.xpath('//div[@class="wfb-text-box"]//table[@id="rankOrder"]/tbody/tr')
+        for index, row in enumerate(rows):
+            if not row.xpath('@class').extract_first() == 'rankHeading':
+                id = row.xpath('@id').extract_first()
+                infant_mortality_rate = float(row.xpath('td[3]/text()').extract_first()) / 1000
+                try:
+                    results[id]["infant_mortality_rate"] = infant_mortality_rate
+                except KeyError:
+                    results[id] = {
+                        "name": row.xpath('td[@class="region"]//text()').extract_first(),
+                        "infant_mortality_rate": infant_mortality_rate
+                    }
+
         meta["results"] = results
         yield scrapy.Request(
             meta["links"]["GDP - real growth rate:"],
@@ -60,7 +85,10 @@ class FactbookSpider(scrapy.Spider):
                 try:
                     results[id]["gdp_growth_rate"] = gdp_growth
                 except KeyError:
-                    pass
+                    results[id] = {
+                        "name": row.xpath('td[@class="region"]//text()').extract_first(),
+                        "gdp_growth_rate": gdp_growth
+                    }
 
         # return results
         item = SasxstcItem()

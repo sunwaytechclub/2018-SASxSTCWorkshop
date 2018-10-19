@@ -256,12 +256,12 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
                 }
         meta["results"] = results
         yield scrapy.Request(
-            meta["links"]["GDP - real growth rate:"],
-            callback=self.parse_gdp,
+            meta["links"]["Infant mortality rate:"],
+            callback=self.parse_infant_mortality,
             meta=meta
         )
 
-    def parse_gdp(self, response):
+    def parse_infant_mortality(self, response):
         meta = response.meta
         results = meta["results"]
 
@@ -269,8 +269,8 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
         for index, row in enumerate(rows):
             if not row.xpath('@class').extract_first() == 'rankHeading':
                 id = row.xpath('@id').extract_first()
-                gdp_growth = row.xpath('td[3]/text()').extract_first()
-                results[id]["gdp_growth_rate"] = gdp_growth
+                infant_mortality_rate = row.xpath('td[3]/text()').extract_first()
+                results[id]["infant_mortality_rate"] = infant_mortality_rate
 
         return results
     ```
@@ -282,7 +282,7 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
       File "/home/gaara/.virtualenvs/sasxstc/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
         current.result = callback(current.result, *args, **kw)
       File "/home/gaara/Desktop/2018-SASxSTCWorkshop/sasxstc/sasxstc/spiders/FactbookSpider.py", line 60, in parse_gdp
-        results[id]["gdp_growth_rate"] = gdp_growth
+        results[id]["infant_mortality_rate"] = infant_mortality_rate
     KeyError: 'kv'
     ```
 
@@ -290,7 +290,7 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
 
     ```python
     try:
-        results[id]["gdp_growth_rate"] = gdp_growth
+        results[id]["infant_mortality_rate"] = infant_mortality_rate
     except KeyError:
         pass
     ```
