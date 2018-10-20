@@ -1,0 +1,1399 @@
+{
+  "od": {
+    "name": "South Sudan",
+    "population_growth_rate": "3.83",
+    "infant_mortality_rate": 0.0628,
+    "gdp_growth_rate": "-11.10"
+  },
+  "ao": {
+    "name": "Angola",
+    "population_growth_rate": "3.52",
+    "infant_mortality_rate": 0.0676,
+    "gdp_growth_rate": "0.70"
+  },
+  "mi": {
+    "name": "Malawi",
+    "population_growth_rate": "3.31",
+    "infant_mortality_rate": 0.0434,
+    "gdp_growth_rate": "4.00"
+  },
+  "by": {
+    "name": "Burundi",
+    "population_growth_rate": "3.25",
+    "infant_mortality_rate": 0.0588,
+    "gdp_growth_rate": "0.00"
+  },
+  "ug": {
+    "name": "Uganda",
+    "population_growth_rate": "3.20",
+    "infant_mortality_rate": 0.056100000000000004,
+    "gdp_growth_rate": "4.50"
+  },
+  "ng": {
+    "name": "Niger",
+    "population_growth_rate": "3.19",
+    "infant_mortality_rate": 0.08109999999999999,
+    "gdp_growth_rate": "5.20"
+  },
+  "ml": {
+    "name": "Mali",
+    "population_growth_rate": "3.02",
+    "infant_mortality_rate": 0.0695,
+    "gdp_growth_rate": "5.30"
+  },
+  "uv": {
+    "name": "Burkina Faso",
+    "population_growth_rate": "3.00",
+    "infant_mortality_rate": 0.0722,
+    "gdp_growth_rate": "6.40"
+  },
+  "za": {
+    "name": "Zambia",
+    "population_growth_rate": "2.93",
+    "infant_mortality_rate": 0.0611,
+    "gdp_growth_rate": "3.60"
+  },
+  "et": {
+    "name": "Ethiopia",
+    "population_growth_rate": "2.85",
+    "infant_mortality_rate": 0.0496,
+    "gdp_growth_rate": "10.90"
+  },
+  "tz": {
+    "name": "Tanzania",
+    "population_growth_rate": "2.75",
+    "infant_mortality_rate": 0.0399,
+    "gdp_growth_rate": "6.00"
+  },
+  "bn": {
+    "name": "Benin",
+    "population_growth_rate": "2.71",
+    "infant_mortality_rate": 0.0528,
+    "gdp_growth_rate": "5.60"
+  },
+  "wi": {
+    "name": "Western Sahara",
+    "population_growth_rate": "2.70",
+    "infant_mortality_rate": 0.0519
+  },
+  "to": {
+    "name": "Togo",
+    "population_growth_rate": "2.64",
+    "infant_mortality_rate": 0.0422,
+    "gdp_growth_rate": "4.40"
+  },
+  "gv": {
+    "name": "Guinea",
+    "population_growth_rate": "2.61",
+    "infant_mortality_rate": 0.05,
+    "gdp_growth_rate": "6.70"
+  },
+  "cm": {
+    "name": "Cameroon",
+    "population_growth_rate": "2.56",
+    "infant_mortality_rate": 0.051,
+    "gdp_growth_rate": "3.20"
+  },
+  "iz": {
+    "name": "Iraq",
+    "population_growth_rate": "2.55",
+    "infant_mortality_rate": 0.0375,
+    "gdp_growth_rate": "-0.80"
+  },
+  "ma": {
+    "name": "Madagascar",
+    "population_growth_rate": "2.50",
+    "infant_mortality_rate": 0.0412,
+    "gdp_growth_rate": "4.10"
+  },
+  "li": {
+    "name": "Liberia",
+    "population_growth_rate": "2.50",
+    "infant_mortality_rate": 0.0522,
+    "gdp_growth_rate": "2.50"
+  },
+  "mz": {
+    "name": "Mozambique",
+    "population_growth_rate": "2.46",
+    "infant_mortality_rate": 0.0659,
+    "gdp_growth_rate": "3.00"
+  },
+  "rw": {
+    "name": "Rwanda",
+    "population_growth_rate": "2.45",
+    "infant_mortality_rate": 0.0297,
+    "gdp_growth_rate": "6.10"
+  },
+  "eg": {
+    "name": "Egypt",
+    "population_growth_rate": "2.45",
+    "infant_mortality_rate": 0.019,
+    "gdp_growth_rate": "4.20"
+  },
+  "ek": {
+    "name": "Equatorial Guinea",
+    "population_growth_rate": "2.44",
+    "infant_mortality_rate": 0.06520000000000001,
+    "gdp_growth_rate": "-4.40"
+  },
+  "ni": {
+    "name": "Nigeria",
+    "population_growth_rate": "2.43",
+    "infant_mortality_rate": 0.0698,
+    "gdp_growth_rate": "0.80"
+  },
+  "sg": {
+    "name": "Senegal",
+    "population_growth_rate": "2.39",
+    "infant_mortality_rate": 0.049100000000000005,
+    "gdp_growth_rate": "7.20"
+  },
+  "sl": {
+    "name": "Sierra Leone",
+    "population_growth_rate": "2.38",
+    "infant_mortality_rate": 0.0684,
+    "gdp_growth_rate": "3.50"
+  },
+  "cg": {
+    "name": "Congo, Democratic Republic of the",
+    "population_growth_rate": "2.37",
+    "infant_mortality_rate": 0.0682,
+    "gdp_growth_rate": "3.40"
+  },
+  "ae": {
+    "name": "United Arab Emirates",
+    "population_growth_rate": "2.37",
+    "infant_mortality_rate": 0.01,
+    "gdp_growth_rate": "0.50"
+  },
+  "af": {
+    "name": "Afghanistan",
+    "population_growth_rate": "2.36",
+    "infant_mortality_rate": 0.11059999999999999,
+    "gdp_growth_rate": "2.50"
+  },
+  "tt": {
+    "name": "Timor-Leste",
+    "population_growth_rate": "2.36",
+    "infant_mortality_rate": 0.0351,
+    "gdp_growth_rate": "-0.50"
+  },
+  "gz": {
+    "name": "Gaza Strip",
+    "population_growth_rate": "2.33",
+    "infant_mortality_rate": 0.0166,
+    "gdp_growth_rate": "-15.20"
+  },
+  "ym": {
+    "name": "Yemen",
+    "population_growth_rate": "2.28",
+    "infant_mortality_rate": 0.046,
+    "gdp_growth_rate": "-13.80"
+  },
+  "qa": {
+    "name": "Qatar",
+    "population_growth_rate": "2.27",
+    "infant_mortality_rate": 0.0062,
+    "gdp_growth_rate": "2.10"
+  },
+  "ba": {
+    "name": "Bahrain",
+    "population_growth_rate": "2.26",
+    "infant_mortality_rate": 0.0089,
+    "gdp_growth_rate": "3.20"
+  },
+  "vi": {
+    "name": "British Virgin Islands",
+    "population_growth_rate": "2.25",
+    "infant_mortality_rate": 0.0121,
+    "gdp_growth_rate": "2.00"
+  },
+  "gh": {
+    "name": "Ghana",
+    "population_growth_rate": "2.17",
+    "infant_mortality_rate": 0.0352,
+    "gdp_growth_rate": "8.40"
+  },
+  "mr": {
+    "name": "Mauritania",
+    "population_growth_rate": "2.17",
+    "infant_mortality_rate": 0.0519,
+    "gdp_growth_rate": "3.20"
+  },
+  "tk": {
+    "name": "Turks and Caicos Islands",
+    "population_growth_rate": "2.16",
+    "infant_mortality_rate": 0.0101,
+    "gdp_growth_rate": "11.20"
+  },
+  "dj": {
+    "name": "Djibouti",
+    "population_growth_rate": "2.16",
+    "infant_mortality_rate": 0.0458,
+    "gdp_growth_rate": "6.70"
+  },
+  "ct": {
+    "name": "Central African Republic",
+    "population_growth_rate": "2.12",
+    "infant_mortality_rate": 0.0863,
+    "gdp_growth_rate": "4.00"
+  },
+  "cf": {
+    "name": "Congo, Republic of the",
+    "population_growth_rate": "2.11",
+    "infant_mortality_rate": 0.0549,
+    "gdp_growth_rate": "-4.60"
+  },
+  "ga": {
+    "name": "Gambia, The",
+    "population_growth_rate": "2.05",
+    "infant_mortality_rate": 0.060200000000000004,
+    "gdp_growth_rate": "3.50"
+  },
+  "jo": {
+    "name": "Jordan",
+    "population_growth_rate": "2.05",
+    "infant_mortality_rate": 0.014199999999999999,
+    "gdp_growth_rate": "2.30"
+  },
+  "mu": {
+    "name": "Oman",
+    "population_growth_rate": "2.03",
+    "infant_mortality_rate": 0.0128,
+    "gdp_growth_rate": "-0.30"
+  },
+  "cj": {
+    "name": "Cayman Islands",
+    "population_growth_rate": "2.01",
+    "infant_mortality_rate": 0.005900000000000001,
+    "gdp_growth_rate": "1.70"
+  },
+  "so": {
+    "name": "Somalia",
+    "population_growth_rate": "2.00",
+    "infant_mortality_rate": 0.0948,
+    "gdp_growth_rate": "1.80"
+  },
+  "lu": {
+    "name": "Luxembourg",
+    "population_growth_rate": "1.98",
+    "infant_mortality_rate": 0.0034,
+    "gdp_growth_rate": "3.50"
+  },
+  "av": {
+    "name": "Anguilla",
+    "population_growth_rate": "1.97",
+    "infant_mortality_rate": 0.0033,
+    "gdp_growth_rate": "-8.50"
+  },
+  "wa": {
+    "name": "Namibia",
+    "population_growth_rate": "1.95",
+    "infant_mortality_rate": 0.0351,
+    "gdp_growth_rate": "-1.20"
+  },
+  "bp": {
+    "name": "Solomon Islands",
+    "population_growth_rate": "1.94",
+    "infant_mortality_rate": 0.0147,
+    "gdp_growth_rate": "3.20"
+  },
+  "gb": {
+    "name": "Gabon",
+    "population_growth_rate": "1.92",
+    "infant_mortality_rate": 0.0441,
+    "gdp_growth_rate": "0.80"
+  },
+  "cd": {
+    "name": "Chad",
+    "population_growth_rate": "1.86",
+    "infant_mortality_rate": 0.0854,
+    "gdp_growth_rate": "-3.10"
+  },
+  "pu": {
+    "name": "Guinea-Bissau",
+    "population_growth_rate": "1.86",
+    "infant_mortality_rate": 0.0857,
+    "gdp_growth_rate": "5.50"
+  },
+  "nh": {
+    "name": "Vanuatu",
+    "population_growth_rate": "1.85",
+    "infant_mortality_rate": 0.0144,
+    "gdp_growth_rate": "4.20"
+  },
+  "iv": {
+    "name": "Cote d'Ivoire",
+    "population_growth_rate": "1.84",
+    "infant_mortality_rate": 0.055799999999999995,
+    "gdp_growth_rate": "7.80"
+  },
+  "we": {
+    "name": "West Bank",
+    "population_growth_rate": "1.84",
+    "infant_mortality_rate": 0.0141,
+    "gdp_growth_rate": "5.30"
+  },
+  "sn": {
+    "name": "Singapore",
+    "population_growth_rate": "1.82",
+    "infant_mortality_rate": 0.0024,
+    "gdp_growth_rate": "3.60"
+  },
+  "bh": {
+    "name": "Belize",
+    "population_growth_rate": "1.80",
+    "infant_mortality_rate": 0.0189,
+    "gdp_growth_rate": "0.80"
+  },
+  "gt": {
+    "name": "Guatemala",
+    "population_growth_rate": "1.75",
+    "infant_mortality_rate": 0.0213,
+    "gdp_growth_rate": "2.80"
+  },
+  "tp": {
+    "name": "Sao Tome and Principe",
+    "population_growth_rate": "1.72",
+    "infant_mortality_rate": 0.0453,
+    "gdp_growth_rate": "4.00"
+  },
+  "pp": {
+    "name": "Papua New Guinea",
+    "population_growth_rate": "1.71",
+    "infant_mortality_rate": 0.0363,
+    "gdp_growth_rate": "2.50"
+  },
+  "ag": {
+    "name": "Algeria",
+    "population_growth_rate": "1.70",
+    "infant_mortality_rate": 0.019600000000000003,
+    "gdp_growth_rate": "2.00"
+  },
+  "ke": {
+    "name": "Kenya",
+    "population_growth_rate": "1.69",
+    "infant_mortality_rate": 0.0371,
+    "gdp_growth_rate": "4.80"
+  },
+  "cn": {
+    "name": "Comoros",
+    "population_growth_rate": "1.64",
+    "infant_mortality_rate": 0.06,
+    "gdp_growth_rate": "2.50"
+  },
+  "su": {
+    "name": "Sudan",
+    "population_growth_rate": "1.64",
+    "infant_mortality_rate": 0.048799999999999996,
+    "gdp_growth_rate": "3.20"
+  },
+  "ti": {
+    "name": "Tajikistan",
+    "population_growth_rate": "1.62",
+    "infant_mortality_rate": 0.0318,
+    "gdp_growth_rate": "7.10"
+  },
+  "ho": {
+    "name": "Honduras",
+    "population_growth_rate": "1.60",
+    "infant_mortality_rate": 0.0172,
+    "gdp_growth_rate": "4.80"
+  },
+  "ly": {
+    "name": "Libya",
+    "population_growth_rate": "1.58",
+    "infant_mortality_rate": 0.0108,
+    "gdp_growth_rate": "70.80"
+  },
+  "bx": {
+    "name": "Brunei",
+    "population_growth_rate": "1.57",
+    "infant_mortality_rate": 0.0096,
+    "gdp_growth_rate": "0.50"
+  },
+  "rp": {
+    "name": "Philippines",
+    "population_growth_rate": "1.57",
+    "infant_mortality_rate": 0.0214,
+    "gdp_growth_rate": "6.70"
+  },
+  "zi": {
+    "name": "Zimbabwe",
+    "population_growth_rate": "1.56",
+    "infant_mortality_rate": 0.0327,
+    "gdp_growth_rate": "3.00"
+  },
+  "bc": {
+    "name": "Botswana",
+    "population_growth_rate": "1.55",
+    "infant_mortality_rate": 0.0296,
+    "gdp_growth_rate": "2.20"
+  },
+  "rm": {
+    "name": "Marshall Islands",
+    "population_growth_rate": "1.55",
+    "infant_mortality_rate": 0.0193,
+    "gdp_growth_rate": "1.90"
+  },
+  "cb": {
+    "name": "Cambodia",
+    "population_growth_rate": "1.52",
+    "infant_mortality_rate": 0.0474,
+    "gdp_growth_rate": "6.90"
+  },
+  "bl": {
+    "name": "Bolivia",
+    "population_growth_rate": "1.51",
+    "infant_mortality_rate": 0.0353,
+    "gdp_growth_rate": "4.20"
+  },
+  "is": {
+    "name": "Israel",
+    "population_growth_rate": "1.51",
+    "infant_mortality_rate": 0.0034,
+    "gdp_growth_rate": "3.30"
+  },
+  "la": {
+    "name": "Laos",
+    "population_growth_rate": "1.51",
+    "infant_mortality_rate": 0.0499,
+    "gdp_growth_rate": "6.80"
+  },
+  "ku": {
+    "name": "Kuwait",
+    "population_growth_rate": "1.46",
+    "infant_mortality_rate": 0.007,
+    "gdp_growth_rate": "-2.50"
+  },
+  "sa": {
+    "name": "Saudi Arabia",
+    "population_growth_rate": "1.45",
+    "infant_mortality_rate": 0.0132,
+    "gdp_growth_rate": "-0.70"
+  },
+  "pk": {
+    "name": "Pakistan",
+    "population_growth_rate": "1.43",
+    "infant_mortality_rate": 0.0521,
+    "gdp_growth_rate": "5.30"
+  },
+  "sk": {
+    "name": "Sint Maarten",
+    "population_growth_rate": "1.42",
+    "infant_mortality_rate": 0.0081
+  },
+  "my": {
+    "name": "Malaysia",
+    "population_growth_rate": "1.37",
+    "infant_mortality_rate": 0.0125,
+    "gdp_growth_rate": "5.90"
+  },
+  "ha": {
+    "name": "Haiti",
+    "population_growth_rate": "1.34",
+    "infant_mortality_rate": 0.046799999999999994,
+    "gdp_growth_rate": "1.20"
+  },
+  "cv": {
+    "name": "Cabo Verde",
+    "population_growth_rate": "1.33",
+    "infant_mortality_rate": 0.0219,
+    "gdp_growth_rate": "4.00"
+  },
+  "nc": {
+    "name": "New Caledonia",
+    "population_growth_rate": "1.33",
+    "infant_mortality_rate": 0.0052,
+    "gdp_growth_rate": "2.00"
+  },
+  "cy": {
+    "name": "Cyprus",
+    "population_growth_rate": "1.32",
+    "infant_mortality_rate": 0.0079,
+    "gdp_growth_rate": "3.90"
+  },
+  "ec": {
+    "name": "Ecuador",
+    "population_growth_rate": "1.28",
+    "infant_mortality_rate": 0.016399999999999998,
+    "gdp_growth_rate": "2.70"
+  },
+  "aa": {
+    "name": "Aruba",
+    "population_growth_rate": "1.27",
+    "infant_mortality_rate": 0.0107,
+    "gdp_growth_rate": "2.40"
+  },
+  "pm": {
+    "name": "Panama",
+    "population_growth_rate": "1.27",
+    "infant_mortality_rate": 0.0099,
+    "gdp_growth_rate": "5.40"
+  },
+  "ir": {
+    "name": "Iran",
+    "population_growth_rate": "1.24",
+    "infant_mortality_rate": 0.0159,
+    "gdp_growth_rate": "4.30"
+  },
+  "ve": {
+    "name": "Venezuela",
+    "population_growth_rate": "1.24",
+    "infant_mortality_rate": 0.012199999999999999,
+    "gdp_growth_rate": "-14.00"
+  },
+  "ac": {
+    "name": "Antigua and Barbuda",
+    "population_growth_rate": "1.21",
+    "infant_mortality_rate": 0.0121,
+    "gdp_growth_rate": "2.80"
+  },
+  "mg": {
+    "name": "Mongolia",
+    "population_growth_rate": "1.18",
+    "infant_mortality_rate": 0.0211,
+    "gdp_growth_rate": "5.10"
+  },
+  "pa": {
+    "name": "Paraguay",
+    "population_growth_rate": "1.18",
+    "infant_mortality_rate": 0.018699999999999998,
+    "gdp_growth_rate": "4.30"
+  },
+  "dr": {
+    "name": "Dominican Republic",
+    "population_growth_rate": "1.18",
+    "infant_mortality_rate": 0.0175,
+    "gdp_growth_rate": "4.60"
+  },
+  "in": {
+    "name": "India",
+    "population_growth_rate": "1.17",
+    "infant_mortality_rate": 0.0391,
+    "gdp_growth_rate": "6.70"
+  },
+  "np": {
+    "name": "Nepal",
+    "population_growth_rate": "1.16",
+    "infant_mortality_rate": 0.027899999999999998,
+    "gdp_growth_rate": "7.50"
+  },
+  "cs": {
+    "name": "Costa Rica",
+    "population_growth_rate": "1.16",
+    "infant_mortality_rate": 0.008,
+    "gdp_growth_rate": "3.20"
+  },
+  "ei": {
+    "name": "Ireland",
+    "population_growth_rate": "1.15",
+    "infant_mortality_rate": 0.0036,
+    "gdp_growth_rate": "7.80"
+  },
+  "kr": {
+    "name": "Kiribati",
+    "population_growth_rate": "1.13",
+    "infant_mortality_rate": 0.032100000000000004,
+    "gdp_growth_rate": "3.10"
+  },
+  "ic": {
+    "name": "Iceland",
+    "population_growth_rate": "1.13",
+    "infant_mortality_rate": 0.0021000000000000003,
+    "gdp_growth_rate": "3.60"
+  },
+  "tx": {
+    "name": "Turkmenistan",
+    "population_growth_rate": "1.12",
+    "infant_mortality_rate": 0.0343,
+    "gdp_growth_rate": "6.50"
+  },
+  "mx": {
+    "name": "Mexico",
+    "population_growth_rate": "1.12",
+    "infant_mortality_rate": 0.0116,
+    "gdp_growth_rate": "2.00"
+  },
+  "kt": {
+    "name": "Christmas Island",
+    "population_growth_rate": "1.11"
+  },
+  "wz": {
+    "name": "Swaziland",
+    "population_growth_rate": "1.08",
+    "infant_mortality_rate": 0.0484,
+    "gdp_growth_rate": "0.20"
+  },
+  "bt": {
+    "name": "Bhutan",
+    "population_growth_rate": "1.07",
+    "infant_mortality_rate": 0.032100000000000004,
+    "gdp_growth_rate": "6.00"
+  },
+  "kg": {
+    "name": "Kyrgyzstan",
+    "population_growth_rate": "1.05",
+    "infant_mortality_rate": 0.0259,
+    "gdp_growth_rate": "4.50"
+  },
+  "bg": {
+    "name": "Bangladesh",
+    "population_growth_rate": "1.04",
+    "infant_mortality_rate": 0.0317,
+    "gdp_growth_rate": "7.10"
+  },
+  "kz": {
+    "name": "Kazakhstan",
+    "population_growth_rate": "1.04",
+    "infant_mortality_rate": 0.019600000000000003,
+    "gdp_growth_rate": "4.00"
+  },
+  "as": {
+    "name": "Australia",
+    "population_growth_rate": "1.03",
+    "infant_mortality_rate": 0.0043,
+    "gdp_growth_rate": "2.30"
+  },
+  "ns": {
+    "name": "Suriname",
+    "population_growth_rate": "1.02",
+    "infant_mortality_rate": 0.0245,
+    "gdp_growth_rate": "0.00"
+  },
+  "ts": {
+    "name": "Tunisia",
+    "population_growth_rate": "1.01",
+    "infant_mortality_rate": 0.0121,
+    "gdp_growth_rate": "1.90"
+  },
+  "no": {
+    "name": "Norway",
+    "population_growth_rate": "1.01",
+    "infant_mortality_rate": 0.0025,
+    "gdp_growth_rate": "1.80"
+  },
+  "sf": {
+    "name": "South Africa",
+    "population_growth_rate": "0.99",
+    "infant_mortality_rate": 0.031,
+    "gdp_growth_rate": "1.30"
+  },
+  "co": {
+    "name": "Colombia",
+    "population_growth_rate": "0.99",
+    "infant_mortality_rate": 0.0136,
+    "gdp_growth_rate": "1.80"
+  },
+  "nu": {
+    "name": "Nicaragua",
+    "population_growth_rate": "0.98",
+    "infant_mortality_rate": 0.0183,
+    "gdp_growth_rate": "4.90"
+  },
+  "mo": {
+    "name": "Morocco",
+    "population_growth_rate": "0.97",
+    "infant_mortality_rate": 0.0219,
+    "gdp_growth_rate": "4.20"
+  },
+  "pe": {
+    "name": "Peru",
+    "population_growth_rate": "0.95",
+    "infant_mortality_rate": 0.0184,
+    "gdp_growth_rate": "2.50"
+  },
+  "uz": {
+    "name": "Uzbekistan",
+    "population_growth_rate": "0.93",
+    "infant_mortality_rate": 0.018,
+    "gdp_growth_rate": "5.30"
+  },
+  "vm": {
+    "name": "Vietnam",
+    "population_growth_rate": "0.93",
+    "infant_mortality_rate": 0.0173,
+    "gdp_growth_rate": "6.80"
+  },
+  "ar": {
+    "name": "Argentina",
+    "population_growth_rate": "0.91",
+    "infant_mortality_rate": 0.009800000000000001,
+    "gdp_growth_rate": "2.90"
+  },
+  "bm": {
+    "name": "Burma",
+    "population_growth_rate": "0.91",
+    "infant_mortality_rate": 0.0358,
+    "gdp_growth_rate": "6.70"
+  },
+  "fp": {
+    "name": "French Polynesia",
+    "population_growth_rate": "0.88",
+    "infant_mortality_rate": 0.0046,
+    "gdp_growth_rate": "2.00"
+  },
+  "aj": {
+    "name": "Azerbaijan",
+    "population_growth_rate": "0.87",
+    "infant_mortality_rate": 0.0238,
+    "gdp_growth_rate": "0.10"
+  },
+  "id": {
+    "name": "Indonesia",
+    "population_growth_rate": "0.86",
+    "infant_mortality_rate": 0.022699999999999998,
+    "gdp_growth_rate": "5.10"
+  },
+  "er": {
+    "name": "Eritrea",
+    "population_growth_rate": "0.85",
+    "infant_mortality_rate": 0.045,
+    "gdp_growth_rate": "5.00"
+  },
+  "tv": {
+    "name": "Tuvalu",
+    "population_growth_rate": "0.85",
+    "infant_mortality_rate": 0.029,
+    "gdp_growth_rate": "3.20"
+  },
+  "sw": {
+    "name": "Sweden",
+    "population_growth_rate": "0.81",
+    "infant_mortality_rate": 0.0026,
+    "gdp_growth_rate": "2.40"
+  },
+  "us": {
+    "name": "United States",
+    "population_growth_rate": "0.81",
+    "infant_mortality_rate": 0.0058,
+    "gdp_growth_rate": "2.30"
+  },
+  "bf": {
+    "name": "Bahamas, The",
+    "population_growth_rate": "0.81",
+    "infant_mortality_rate": 0.011300000000000001,
+    "gdp_growth_rate": "1.30"
+  },
+  "ls": {
+    "name": "Liechtenstein",
+    "population_growth_rate": "0.80",
+    "infant_mortality_rate": 0.004200000000000001,
+    "gdp_growth_rate": "1.80"
+  },
+  "nz": {
+    "name": "New Zealand",
+    "population_growth_rate": "0.79",
+    "infant_mortality_rate": 0.0044,
+    "gdp_growth_rate": "3.00"
+  },
+  "je": {
+    "name": "Jersey",
+    "population_growth_rate": "0.78",
+    "infant_mortality_rate": 0.0038,
+    "gdp_growth_rate": "1.00"
+  },
+  "sp": {
+    "name": "Spain",
+    "population_growth_rate": "0.78",
+    "infant_mortality_rate": 0.0033,
+    "gdp_growth_rate": "3.10"
+  },
+  "ci": {
+    "name": "Chile",
+    "population_growth_rate": "0.77",
+    "infant_mortality_rate": 0.0066,
+    "gdp_growth_rate": "1.50"
+  },
+  "se": {
+    "name": "Seychelles",
+    "population_growth_rate": "0.77",
+    "infant_mortality_rate": 0.01,
+    "gdp_growth_rate": "4.20"
+  },
+  "ce": {
+    "name": "Sri Lanka",
+    "population_growth_rate": "0.76",
+    "infant_mortality_rate": 0.008400000000000001,
+    "gdp_growth_rate": "3.10"
+  },
+  "mc": {
+    "name": "Macau",
+    "population_growth_rate": "0.74",
+    "infant_mortality_rate": 0.0031,
+    "gdp_growth_rate": "9.30"
+  },
+  "sm": {
+    "name": "San Marino",
+    "population_growth_rate": "0.74",
+    "infant_mortality_rate": 0.0043,
+    "gdp_growth_rate": "1.50"
+  },
+  "br": {
+    "name": "Brazil",
+    "population_growth_rate": "0.73",
+    "infant_mortality_rate": 0.0175,
+    "gdp_growth_rate": "1.00"
+  },
+  "ca": {
+    "name": "Canada",
+    "population_growth_rate": "0.73",
+    "infant_mortality_rate": 0.0045,
+    "gdp_growth_rate": "3.00"
+  },
+  "sc": {
+    "name": "Saint Kitts and Nevis",
+    "population_growth_rate": "0.73",
+    "infant_mortality_rate": 0.008400000000000001,
+    "gdp_growth_rate": "2.60"
+  },
+  "be": {
+    "name": "Belgium",
+    "population_growth_rate": "0.70",
+    "infant_mortality_rate": 0.0034,
+    "gdp_growth_rate": "1.70"
+  },
+  "sz": {
+    "name": "Switzerland",
+    "population_growth_rate": "0.69",
+    "infant_mortality_rate": 0.0036,
+    "gdp_growth_rate": "1.10"
+  },
+  "jm": {
+    "name": "Jamaica",
+    "population_growth_rate": "0.68",
+    "infant_mortality_rate": 0.0128,
+    "gdp_growth_rate": "1.00"
+  },
+  "im": {
+    "name": "Isle of Man",
+    "population_growth_rate": "0.68",
+    "infant_mortality_rate": 0.004,
+    "gdp_growth_rate": "-8.60"
+  },
+  "ws": {
+    "name": "Samoa",
+    "population_growth_rate": "0.60",
+    "infant_mortality_rate": 0.018600000000000002,
+    "gdp_growth_rate": "2.40"
+  },
+  "fj": {
+    "name": "Fiji",
+    "population_growth_rate": "0.60",
+    "infant_mortality_rate": 0.0095,
+    "gdp_growth_rate": "3.80"
+  },
+  "mp": {
+    "name": "Mauritius",
+    "population_growth_rate": "0.59",
+    "infant_mortality_rate": 0.009800000000000001,
+    "gdp_growth_rate": "3.90"
+  },
+  "fo": {
+    "name": "Faroe Islands",
+    "population_growth_rate": "0.55",
+    "infant_mortality_rate": 0.0054,
+    "gdp_growth_rate": "5.90"
+  },
+  "kn": {
+    "name": "Korea, North",
+    "population_growth_rate": "0.53",
+    "infant_mortality_rate": 0.0221,
+    "gdp_growth_rate": "-1.10"
+  },
+  "nr": {
+    "name": "Nauru",
+    "population_growth_rate": "0.53",
+    "infant_mortality_rate": 0.0078,
+    "gdp_growth_rate": "4.00"
+  },
+  "tu": {
+    "name": "Turkey",
+    "population_growth_rate": "0.52",
+    "infant_mortality_rate": 0.0176,
+    "gdp_growth_rate": "7.00"
+  },
+  "uk": {
+    "name": "United Kingdom",
+    "population_growth_rate": "0.52",
+    "infant_mortality_rate": 0.0043,
+    "gdp_growth_rate": "1.80"
+  },
+  "ks": {
+    "name": "Korea, South",
+    "population_growth_rate": "0.48",
+    "infant_mortality_rate": 0.003,
+    "gdp_growth_rate": "3.10"
+  },
+  "au": {
+    "name": "Austria",
+    "population_growth_rate": "0.47",
+    "infant_mortality_rate": 0.0034,
+    "gdp_growth_rate": "2.90"
+  },
+  "bd": {
+    "name": "Bermuda",
+    "population_growth_rate": "0.45",
+    "infant_mortality_rate": 0.0025,
+    "gdp_growth_rate": "-0.10"
+  },
+  "mh": {
+    "name": "Montserrat",
+    "population_growth_rate": "0.45",
+    "infant_mortality_rate": 0.0123,
+    "gdp_growth_rate": "7.40"
+  },
+  "gj": {
+    "name": "Grenada",
+    "population_growth_rate": "0.44",
+    "infant_mortality_rate": 0.009699999999999999,
+    "gdp_growth_rate": "3.50"
+  },
+  "ch": {
+    "name": "China",
+    "population_growth_rate": "0.41",
+    "infant_mortality_rate": 0.012,
+    "gdp_growth_rate": "6.90"
+  },
+  "cc": {
+    "name": "Curacao",
+    "population_growth_rate": "0.40",
+    "infant_mortality_rate": 0.0075
+  },
+  "ps": {
+    "name": "Palau",
+    "population_growth_rate": "0.39",
+    "infant_mortality_rate": 0.0106,
+    "gdp_growth_rate": "-1.00"
+  },
+  "fr": {
+    "name": "France",
+    "population_growth_rate": "0.39",
+    "infant_mortality_rate": 0.0032,
+    "gdp_growth_rate": "1.80"
+  },
+  "nl": {
+    "name": "Netherlands",
+    "population_growth_rate": "0.39",
+    "infant_mortality_rate": 0.0036,
+    "gdp_growth_rate": "3.10"
+  },
+  "fi": {
+    "name": "Finland",
+    "population_growth_rate": "0.36",
+    "infant_mortality_rate": 0.0025,
+    "gdp_growth_rate": "3.00"
+  },
+  "hk": {
+    "name": "Hong Kong",
+    "population_growth_rate": "0.32",
+    "infant_mortality_rate": 0.0027,
+    "gdp_growth_rate": "3.80"
+  },
+  "gy": {
+    "name": "Guyana",
+    "population_growth_rate": "0.32",
+    "infant_mortality_rate": 0.0304,
+    "gdp_growth_rate": "2.10"
+  },
+  "st": {
+    "name": "Saint Lucia",
+    "population_growth_rate": "0.32",
+    "infant_mortality_rate": 0.0109,
+    "gdp_growth_rate": "3.00"
+  },
+  "wf": {
+    "name": "Wallis and Futuna",
+    "population_growth_rate": "0.32",
+    "infant_mortality_rate": 0.0043
+  },
+  "al": {
+    "name": "Albania",
+    "population_growth_rate": "0.31",
+    "infant_mortality_rate": 0.0119,
+    "gdp_growth_rate": "3.90"
+  },
+  "th": {
+    "name": "Thailand",
+    "population_growth_rate": "0.30",
+    "infant_mortality_rate": 0.0092,
+    "gdp_growth_rate": "3.90"
+  },
+  "gk": {
+    "name": "Guernsey",
+    "population_growth_rate": "0.30",
+    "infant_mortality_rate": 0.0034,
+    "gdp_growth_rate": "0.40"
+  },
+  "lt": {
+    "name": "Lesotho",
+    "population_growth_rate": "0.28",
+    "infant_mortality_rate": 0.0461,
+    "gdp_growth_rate": "3.10"
+  },
+  "bb": {
+    "name": "Barbados",
+    "population_growth_rate": "0.28",
+    "infant_mortality_rate": 0.010199999999999999,
+    "gdp_growth_rate": "0.90"
+  },
+  "uy": {
+    "name": "Uruguay",
+    "population_growth_rate": "0.27",
+    "infant_mortality_rate": 0.0083,
+    "gdp_growth_rate": "3.10"
+  },
+  "mt": {
+    "name": "Malta",
+    "population_growth_rate": "0.26",
+    "infant_mortality_rate": 0.0035,
+    "gdp_growth_rate": "6.60"
+  },
+  "gq": {
+    "name": "Guam",
+    "population_growth_rate": "0.26",
+    "infant_mortality_rate": 0.0126,
+    "gdp_growth_rate": "0.40"
+  },
+  "es": {
+    "name": "El Salvador",
+    "population_growth_rate": "0.25",
+    "infant_mortality_rate": 0.016800000000000002,
+    "gdp_growth_rate": "2.40"
+  },
+  "mn": {
+    "name": "Monaco",
+    "population_growth_rate": "0.24",
+    "infant_mortality_rate": 0.0018,
+    "gdp_growth_rate": "5.40"
+  },
+  "ee": {
+    "name": "European Union",
+    "population_growth_rate": "0.23",
+    "infant_mortality_rate": 0.004,
+    "gdp_growth_rate": "2.30"
+  },
+  "gi": {
+    "name": "Gibraltar",
+    "population_growth_rate": "0.23",
+    "infant_mortality_rate": 0.005900000000000001
+  },
+  "da": {
+    "name": "Denmark",
+    "population_growth_rate": "0.22",
+    "infant_mortality_rate": 0.004,
+    "gdp_growth_rate": "2.10"
+  },
+  "it": {
+    "name": "Italy",
+    "population_growth_rate": "0.19",
+    "infant_mortality_rate": 0.0033,
+    "gdp_growth_rate": "1.50"
+  },
+  "do": {
+    "name": "Dominica",
+    "population_growth_rate": "0.18",
+    "infant_mortality_rate": 0.0106,
+    "gdp_growth_rate": "-4.20"
+  },
+  "sh": {
+    "name": "Saint Helena, Ascension, and Tristan da Cunha",
+    "population_growth_rate": "0.18",
+    "infant_mortality_rate": 0.013300000000000001
+  },
+  "tw": {
+    "name": "Taiwan",
+    "population_growth_rate": "0.17",
+    "infant_mortality_rate": 0.0043,
+    "gdp_growth_rate": "2.80"
+  },
+  "mk": {
+    "name": "Macedonia",
+    "population_growth_rate": "0.17",
+    "infant_mortality_rate": 0.0074,
+    "gdp_growth_rate": "0.00"
+  },
+  "ez": {
+    "name": "Czechia",
+    "population_growth_rate": "0.12",
+    "infant_mortality_rate": 0.0026,
+    "gdp_growth_rate": "4.30"
+  },
+  "po": {
+    "name": "Portugal",
+    "population_growth_rate": "0.04",
+    "infant_mortality_rate": 0.0043,
+    "gdp_growth_rate": "2.70"
+  },
+  "an": {
+    "name": "Andorra",
+    "population_growth_rate": "0.03",
+    "infant_mortality_rate": 0.0036,
+    "gdp_growth_rate": "-1.10"
+  },
+  "fk": {
+    "name": "Falkland Islands (Islas Malvinas)",
+    "population_growth_rate": "0.01",
+    "gdp_growth_rate": "25.50"
+  },
+  "nf": {
+    "name": "Norfolk Island",
+    "population_growth_rate": "0.01"
+  },
+  "vt": {
+    "name": "Holy See (Vatican City)",
+    "population_growth_rate": "0.00"
+  },
+  "pc": {
+    "name": "Pitcairn Islands",
+    "population_growth_rate": "0.00"
+  },
+  "ck": {
+    "name": "Cocos (Keeling) Islands",
+    "population_growth_rate": "0.00",
+    "gdp_growth_rate": "1.00"
+  },
+  "lo": {
+    "name": "Slovakia",
+    "population_growth_rate": "-0.01",
+    "infant_mortality_rate": 0.0050999999999999995,
+    "gdp_growth_rate": "3.40"
+  },
+  "tl": {
+    "name": "Tokelau",
+    "population_growth_rate": "-0.01"
+  },
+  "gg": {
+    "name": "Georgia",
+    "population_growth_rate": "-0.02",
+    "infant_mortality_rate": 0.0152,
+    "gdp_growth_rate": "4.80"
+  },
+  "sv": {
+    "name": "Svalbard",
+    "population_growth_rate": "-0.03"
+  },
+  "gl": {
+    "name": "Greenland",
+    "population_growth_rate": "-0.03",
+    "infant_mortality_rate": 0.0089,
+    "gdp_growth_rate": "7.70"
+  },
+  "ne": {
+    "name": "Niue",
+    "population_growth_rate": "-0.03",
+    "gdp_growth_rate": "6.20"
+  },
+  "tn": {
+    "name": "Tonga",
+    "population_growth_rate": "-0.05",
+    "infant_mortality_rate": 0.011300000000000001,
+    "gdp_growth_rate": "3.10"
+  },
+  "mv": {
+    "name": "Maldives",
+    "population_growth_rate": "-0.06",
+    "infant_mortality_rate": 0.022,
+    "gdp_growth_rate": "4.80"
+  },
+  "gr": {
+    "name": "Greece",
+    "population_growth_rate": "-0.06",
+    "infant_mortality_rate": 0.0046,
+    "gdp_growth_rate": "1.40"
+  },
+  "rs": {
+    "name": "Russia",
+    "population_growth_rate": "-0.08",
+    "infant_mortality_rate": 0.0068,
+    "gdp_growth_rate": "1.50"
+  },
+  "pl": {
+    "name": "Poland",
+    "population_growth_rate": "-0.13",
+    "infant_mortality_rate": 0.0044,
+    "gdp_growth_rate": "4.60"
+  },
+  "bk": {
+    "name": "Bosnia and Herzegovina",
+    "population_growth_rate": "-0.16",
+    "infant_mortality_rate": 0.0055,
+    "gdp_growth_rate": "2.70"
+  },
+  "gm": {
+    "name": "Germany",
+    "population_growth_rate": "-0.16",
+    "infant_mortality_rate": 0.0034,
+    "gdp_growth_rate": "2.50"
+  },
+  "td": {
+    "name": "Trinidad and Tobago",
+    "population_growth_rate": "-0.20",
+    "infant_mortality_rate": 0.0223,
+    "gdp_growth_rate": "-2.60"
+  },
+  "am": {
+    "name": "Armenia",
+    "population_growth_rate": "-0.21",
+    "infant_mortality_rate": 0.0127,
+    "gdp_growth_rate": "7.50"
+  },
+  "ja": {
+    "name": "Japan",
+    "population_growth_rate": "-0.21",
+    "infant_mortality_rate": 0.002,
+    "gdp_growth_rate": "1.70"
+  },
+  "bo": {
+    "name": "Belarus",
+    "population_growth_rate": "-0.22",
+    "infant_mortality_rate": 0.0036,
+    "gdp_growth_rate": "2.40"
+  },
+  "vc": {
+    "name": "Saint Vincent and the Grenadines",
+    "population_growth_rate": "-0.25",
+    "infant_mortality_rate": 0.012,
+    "gdp_growth_rate": "1.00"
+  },
+  "hu": {
+    "name": "Hungary",
+    "population_growth_rate": "-0.25",
+    "infant_mortality_rate": 0.004900000000000001,
+    "gdp_growth_rate": "4.00"
+  },
+  "vq": {
+    "name": "Virgin Islands",
+    "population_growth_rate": "-0.25",
+    "infant_mortality_rate": 0.0079,
+    "gdp_growth_rate": "0.90"
+  },
+  "mj": {
+    "name": "Montenegro",
+    "population_growth_rate": "-0.28",
+    "gdp_growth_rate": "4.20"
+  },
+  "cu": {
+    "name": "Cuba",
+    "population_growth_rate": "-0.29",
+    "infant_mortality_rate": 0.0044,
+    "gdp_growth_rate": "1.60"
+  },
+  "si": {
+    "name": "Slovenia",
+    "population_growth_rate": "-0.31",
+    "infant_mortality_rate": 0.0039,
+    "gdp_growth_rate": "5.00"
+  },
+  "ro": {
+    "name": "Romania",
+    "population_growth_rate": "-0.33",
+    "infant_mortality_rate": 0.0094,
+    "gdp_growth_rate": "7.00"
+  },
+  "up": {
+    "name": "Ukraine",
+    "population_growth_rate": "-0.41",
+    "infant_mortality_rate": 0.0078,
+    "gdp_growth_rate": "2.50"
+  },
+  "ri": {
+    "name": "Serbia",
+    "population_growth_rate": "-0.46",
+    "infant_mortality_rate": 0.0058,
+    "gdp_growth_rate": "1.80"
+  },
+  "hr": {
+    "name": "Croatia",
+    "population_growth_rate": "-0.50",
+    "infant_mortality_rate": 0.009300000000000001,
+    "gdp_growth_rate": "2.80"
+  },
+  "cq": {
+    "name": "Northern Mariana Islands",
+    "population_growth_rate": "-0.51",
+    "infant_mortality_rate": 0.0127,
+    "gdp_growth_rate": "28.60"
+  },
+  "fm": {
+    "name": "Micronesia, Federated States of",
+    "population_growth_rate": "-0.52",
+    "infant_mortality_rate": 0.0198,
+    "gdp_growth_rate": "2.00"
+  },
+  "en": {
+    "name": "Estonia",
+    "population_growth_rate": "-0.57",
+    "infant_mortality_rate": 0.0038,
+    "gdp_growth_rate": "4.90"
+  },
+  "bu": {
+    "name": "Bulgaria",
+    "population_growth_rate": "-0.61",
+    "infant_mortality_rate": 0.008400000000000001,
+    "gdp_growth_rate": "3.60"
+  },
+  "md": {
+    "name": "Moldova",
+    "population_growth_rate": "-1.05",
+    "infant_mortality_rate": 0.012,
+    "gdp_growth_rate": "4.00"
+  },
+  "lh": {
+    "name": "Lithuania",
+    "population_growth_rate": "-1.08",
+    "infant_mortality_rate": 0.0038,
+    "gdp_growth_rate": "3.80"
+  },
+  "lg": {
+    "name": "Latvia",
+    "population_growth_rate": "-1.08",
+    "infant_mortality_rate": 0.0052,
+    "gdp_growth_rate": "4.50"
+  },
+  "sb": {
+    "name": "Saint Pierre and Miquelon",
+    "population_growth_rate": "-1.08",
+    "infant_mortality_rate": 0.0065
+  },
+  "le": {
+    "name": "Lebanon",
+    "population_growth_rate": "-1.10",
+    "infant_mortality_rate": 0.0074,
+    "gdp_growth_rate": "1.20"
+  },
+  "aq": {
+    "name": "American Samoa",
+    "population_growth_rate": "-1.30",
+    "infant_mortality_rate": 0.011300000000000001,
+    "gdp_growth_rate": "-2.50"
+  },
+  "rq": {
+    "name": "Puerto Rico",
+    "population_growth_rate": "-1.74",
+    "infant_mortality_rate": 0.0064,
+    "gdp_growth_rate": "-7.70"
+  },
+  "cw": {
+    "name": "Cook Islands",
+    "population_growth_rate": "-2.79",
+    "infant_mortality_rate": 0.013,
+    "gdp_growth_rate": "0.10"
+  },
+  "sy": {
+    "name": "Syria",
+    "infant_mortality_rate": 0.0148
+  },
+  "kv": {
+    "name": "Kosovo",
+    "gdp_growth_rate": "4.10"
+  },
+  "uc": {
+    "name": "Curacao",
+    "gdp_growth_rate": "3.60"
+  },
+  "nn": {
+    "name": "Sint Maarten",
+    "gdp_growth_rate": "3.60"
+  }
+}

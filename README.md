@@ -411,26 +411,17 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
         country_name = []
         population_growth = []
         infant_mortality = []
-        gdp_growth = []
 
         for country_code in list(results.keys()):
 
             country_name.append(results[country_code]["name"])
 
-            try:
-                population_growth.append(float(results[country_code]["population_growth_rate"]))
-            except KeyError:
-                population_growth.append(None)
+            population_growth.append(float(results[country_code]["population_growth_rate"]))
 
             try:
                 infant_mortality.append(float(results[country_code]["infant_mortality_rate"]))
             except KeyError:
                 infant_mortality.append(None)
-
-            try:
-                gdp_growth.append(float(results[country_code]["gdp_growth_rate"]))
-            except KeyError:
-                gdp_growth.append(None)
     ```
 
 1. Put data into Panda dataframe
@@ -438,7 +429,6 @@ CIA is Central Intelligence Agency. Various data can be found in CIA factbook, s
     ```python
     data = pandas.DataFrame(
             {
-                "gdp_growth": gdp_growth,
                 "infant_mortality": infant_mortality,
                 "population_growth": population_growth
             },
